@@ -14,7 +14,9 @@ public class Student {
 	}
 	
 	public void printStudent(){
-		System.out.println("the name of the Student is"+name );
+		System.out.println("the name of the Student is"+name +"the age of the student is"+age +"the module the student is doing is"+module);
 	}
+	
+	
 
 }
